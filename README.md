@@ -134,7 +134,7 @@ Attrition Rate = DIVIDE([Attrition Count], COUNT(Table[Employee_ID]))
 
 # 7. Dashboard Features
 
-## 🔢 KPI Cards
+##  KPI Cards
 
 * Total Employees → 9800
 * Attrition Rate → 49.19%
