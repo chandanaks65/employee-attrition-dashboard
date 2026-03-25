@@ -195,7 +195,7 @@ Used for:
 
 ---
 
-# 🎛 9. Filters (Slicers)
+# 9. Filters (Slicers)
 
 The dashboard includes interactive slicers:
 
